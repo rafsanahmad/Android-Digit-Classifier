@@ -23,7 +23,8 @@ import com.google.firebase.ml.modeldownloader.CustomModel
 import com.google.firebase.ml.modeldownloader.CustomModelDownloadConditions
 import com.google.firebase.ml.modeldownloader.DownloadType
 import com.google.firebase.ml.modeldownloader.FirebaseModelDownloader
-import org.tensorflow.lite.Interpreter
+import com.google.firebase.perf.FirebasePerformance
+import com.google.firebase.perf.metrics.Trace
 import java.io.FileInputStream
 import java.io.IOException
 import java.nio.ByteBuffer
@@ -37,6 +38,8 @@ class MainActivity : AppCompatActivity() {
     private var yesButton: Button? = null
     private var predictedTextView: TextView? = null
     private var digitClassifier = DigitClassifier(this)
+    private val firebasePerformance = FirebasePerformance.getInstance()
+    private lateinit var downloadTrace: Trace
 
     @SuppressLint("ClickableViewAccessibility")
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -92,9 +95,14 @@ class MainActivity : AppCompatActivity() {
         val bitmap = drawView?.getBitmap()
 
         if ((bitmap != null) && (digitClassifier.isInitialized)) {
+            // Add these lines to create and start the trace
+            val classifyTrace = firebasePerformance.newTrace("classify")
+            classifyTrace.start()
             digitClassifier
                 .classifyAsync(bitmap)
                 .addOnSuccessListener { resultText ->
+                    // Add this line to stop the trace on success
+                    classifyTrace.stop()
                     predictedTextView?.text = resultText
                 }
                 .addOnFailureListener { e ->
@@ -118,6 +126,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun setupDigitClassifier() {
+        // Add these lines to create and start the trace
+        downloadTrace = firebasePerformance.newTrace("download_model")
+        downloadTrace.start()
         downloadModel("mnist_v1")
     }
 
@@ -141,6 +152,7 @@ class MainActivity : AppCompatActivity() {
                     showToast("Downloaded remote model: $model")
                     //var interpreter = Interpreter(modelFile)
                     digitClassifier.initializeInterpreter(modelFile)
+                    downloadTrace.stop()
                 } else {
                     showToast("Failed to get model file.")
                 }

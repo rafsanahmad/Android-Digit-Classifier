@@ -1,31 +1,30 @@
 # Digit Classifier Android sample
 
-<img src="https://storage.googleapis.com/khanhlvg-public.appspot.com/digit-classifier/screenshot_android.png" />
+![info](snapshot.png)
 
 ## Requirements
 
-*  Android Studio 3.2 (installed on a Linux, Mac or Windows machine)
+*  Android Studio Arctic Fox(installed on a Linux, Mac or Windows machine)
 *  An Android device, or an Android Emulator
 
 ## Build and run
 
-### Step 1. Clone the TensorFlow examples source code
+### Step 1. Setup Firebase
 
-Clone the TensorFlow examples GitHub repository to your computer to get the
-demo application.
+https://firebase.google.com/docs/android/setup
 
-```
-git clone https://github.com/tensorflow/examples
-```
+### Step 2. Using Custom Model
 
-### Step 2. Import the sample app to Android Studio
+https://firebase.google.com/docs/ml/android/use-custom-models#kotlin+ktx_1
+
+### Step 3. Import the sample app to Android Studio
 
 Open the TensorFlow source code in Android Studio. To do this, open Android
 Studio and select `Import Projects (Gradle, Eclipse ADT, etc.)`, setting the
 folder to `examples/lite/examples/digit_classifier/android`
 
 
-### Step 3. Run the Android app
+### Step 4. Run the Android app
 
 Connect the Android device to the computer and be sure to approve any ADB
 permission prompts that appear on your phone. Select `Run -> Run app.` Select

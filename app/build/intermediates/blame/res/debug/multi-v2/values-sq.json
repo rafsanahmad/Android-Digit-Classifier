@@ -4,24 +4,24 @@
             "outputFile": "/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml",
             "map": [
                 {
-                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/2ed07b1756d8e43281522216901b8b32/appcompat-1.1.0/res/values-sq/values-sq.xml",
+                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/1d2aad853b23e0825ba878f37fad6aab/appcompat-1.2.0/res/values-sq/values-sq.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,219,319,431,517,623,746,828,907,998,1090,1185,1279,1381,1474,1569,1666,1757,1850,1930,2036,2140,2238,2344,2448,2550,2704,2801",
-                        "endColumns": "113,99,111,85,105,122,81,78,90,91,94,93,101,92,94,96,90,92,79,105,103,97,105,103,101,153,96,80",
-                        "endOffsets": "214,314,426,512,618,741,823,902,993,1085,1180,1274,1376,1469,1564,1661,1752,1845,1925,2031,2135,2233,2339,2443,2545,2699,2796,2877"
+                        "startOffsets": "105,219,319,431,517,623,746,828,906,997,1090,1185,1279,1380,1473,1568,1665,1756,1849,1930,2036,2140,2238,2344,2448,2550,2704,2801",
+                        "endColumns": "113,99,111,85,105,122,81,77,90,92,94,93,100,92,94,96,90,92,80,105,103,97,105,103,101,153,96,81",
+                        "endOffsets": "214,314,426,512,618,741,823,901,992,1085,1180,1274,1375,1468,1563,1660,1751,1844,1925,2031,2135,2233,2339,2443,2545,2699,2796,2878"
                     },
                     "to": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,30",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,219,319,431,517,623,746,828,907,998,1090,1185,1279,1381,1474,1569,1666,1757,1850,1930,2036,2140,2238,2344,2448,2550,2704,2989",
-                        "endColumns": "113,99,111,85,105,122,81,78,90,91,94,93,101,92,94,96,90,92,79,105,103,97,105,103,101,153,96,80",
-                        "endOffsets": "214,314,426,512,618,741,823,902,993,1085,1180,1274,1376,1469,1564,1661,1752,1845,1925,2031,2135,2233,2339,2443,2545,2699,2796,3065"
+                        "startOffsets": "105,219,319,431,517,623,746,828,906,997,1090,1185,1279,1380,1473,1568,1665,1756,1849,1930,2036,2140,2238,2344,2448,2550,2704,2989",
+                        "endColumns": "113,99,111,85,105,122,81,77,90,92,94,93,100,92,94,96,90,92,80,105,103,97,105,103,101,153,96,81",
+                        "endOffsets": "214,314,426,512,618,741,823,901,992,1085,1180,1274,1375,1468,1563,1660,1751,1844,1925,2031,2135,2233,2339,2443,2545,2699,2796,3066"
                     }
                 },
                 {
-                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/58036dd3f4ddaf988fd64c4ec143a351/core-1.2.0/res/values-sq/values-sq.xml",
+                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d429cae7b2d96198bacee7b7c875d8c0/core-1.3.0/res/values-sq/values-sq.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -32,13 +32,13 @@
                     "to": {
                         "startLines": "31",
                         "startColumns": "4",
-                        "startOffsets": "3070",
+                        "startOffsets": "3071",
                         "endColumns": "100",
-                        "endOffsets": "3166"
+                        "endOffsets": "3167"
                     }
                 },
                 {
-                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ce0ea5897aba07111fc582f40a02eee5/jetified-play-services-basement-17.4.0/res/values-sq/values.xml",
+                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ca63abfd2501c996a41448df36807db6/jetified-play-services-basement-17.4.0/res/values-sq/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
