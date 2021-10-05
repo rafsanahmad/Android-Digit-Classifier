@@ -6,7 +6,7 @@
   -->
 
 <resources>
-  <string name="tfe_dc_app_name" translatable="false">TFL Digit Classifier</string>
+  <string name="tfe_dc_app_name" translatable="false">Digit Classifier</string>
   <string name="tfe_dc_clear_button_text" translatable="false">Clear</string>
   <string name="tfe_dc_prediction_text_placeholder" translatable="false">Please draw a digit</string>
   <string name="tfe_dc_question_text_placeholder" translatable="false">Was this correct?</string>

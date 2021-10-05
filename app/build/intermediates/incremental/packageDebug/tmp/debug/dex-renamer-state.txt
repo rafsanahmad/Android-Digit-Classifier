@@ -1,4 +1,4 @@
-#Tue Oct 05 13:09:52 BDT 2021
+#Tue Oct 05 15:26:04 BDT 2021
 base.0=/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/build/intermediates/dex/debug/mergeExtDexDebug/classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex
