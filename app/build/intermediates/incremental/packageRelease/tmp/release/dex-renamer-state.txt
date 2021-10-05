@@ -1,4 +1,0 @@
-#Tue Oct 05 20:29:46 BDT 2021
-base.0=/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex

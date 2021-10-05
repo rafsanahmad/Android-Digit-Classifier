@@ -35,7 +35,7 @@
 23        android:allowBackup="true"
 23-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:16:9-35
 24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-24-->[androidx.core:core:1.3.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d429cae7b2d96198bacee7b7c875d8c0/core-1.3.0/AndroidManifest.xml:24:18-86
+24-->[androidx.core:core:1.6.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ad4c187852062a8343a4dcd3ce2b7c6c/core-1.6.0/AndroidManifest.xml:24:18-86
 25        android:debuggable="true"
 26        android:icon="@mipmap/ic_launcher"
 26-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:17:9-43
@@ -180,57 +180,59 @@
 100                android:value="cct" />
 100-->[com.google.android.datatransport:transport-backend-cct:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/3ece9ea206b46fc73d9ded1a478b8d46/jetified-transport-backend-cct-3.0.0/AndroidManifest.xml:34:17-36
 101        </service>
-102        <service
-102-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
-103            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
-103-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
-104            android:exported="false"
-104-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
-105            android:permission="android.permission.BIND_JOB_SERVICE" >
-105-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
-106        </service>
-107
-108        <receiver
-108-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
-109            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
-109-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
-110            android:exported="false" />
-110-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
-111        <receiver
-111-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:29:9-33:20
-112            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-112-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:30:13-85
-113            android:enabled="true"
-113-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:31:13-35
-114            android:exported="false" >
-114-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:32:13-37
-115        </receiver>
-116
-117        <service
-117-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:35:9-38:40
-118            android:name="com.google.android.gms.measurement.AppMeasurementService"
-118-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:36:13-84
-119            android:enabled="true"
-119-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:37:13-35
-120            android:exported="false" />
-120-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:38:13-37
-121        <service
-121-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:39:9-43:72
-122            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
-122-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:40:13-87
-123            android:enabled="true"
-123-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:41:13-35
-124            android:exported="false"
-124-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:42:13-37
-125            android:permission="android.permission.BIND_JOB_SERVICE" />
-125-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:43:13-69
-126
-127        <meta-data
-127-->[com.google.android.gms:play-services-basement:17.4.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ca63abfd2501c996a41448df36807db6/jetified-play-services-basement-17.4.0/AndroidManifest.xml:23:9-25:69
-128            android:name="com.google.android.gms.version"
-128-->[com.google.android.gms:play-services-basement:17.4.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ca63abfd2501c996a41448df36807db6/jetified-play-services-basement-17.4.0/AndroidManifest.xml:24:13-58
-129            android:value="@integer/google_play_services_version" />
-129-->[com.google.android.gms:play-services-basement:17.4.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ca63abfd2501c996a41448df36807db6/jetified-play-services-basement-17.4.0/AndroidManifest.xml:25:13-66
-130    </application>
-131
-132</manifest>
+102
+103        <receiver
+103-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:29:9-33:20
+104            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+104-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:30:13-85
+105            android:enabled="true"
+105-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:31:13-35
+106            android:exported="false" >
+106-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:32:13-37
+107        </receiver>
+108
+109        <service
+109-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:35:9-38:40
+110            android:name="com.google.android.gms.measurement.AppMeasurementService"
+110-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:36:13-84
+111            android:enabled="true"
+111-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:37:13-35
+112            android:exported="false" />
+112-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:38:13-37
+113        <service
+113-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:39:9-43:72
+114            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+114-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:40:13-87
+115            android:enabled="true"
+115-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:41:13-35
+116            android:exported="false"
+116-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:42:13-37
+117            android:permission="android.permission.BIND_JOB_SERVICE" />
+117-->[com.google.android.gms:play-services-measurement:19.0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/edf0281d539e9b70302562523ebd8d18/jetified-play-services-measurement-19.0.1/AndroidManifest.xml:43:13-69
+118
+119        <meta-data
+119-->[com.google.android.gms:play-services-basement:17.4.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ca63abfd2501c996a41448df36807db6/jetified-play-services-basement-17.4.0/AndroidManifest.xml:23:9-25:69
+120            android:name="com.google.android.gms.version"
+120-->[com.google.android.gms:play-services-basement:17.4.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ca63abfd2501c996a41448df36807db6/jetified-play-services-basement-17.4.0/AndroidManifest.xml:24:13-58
+121            android:value="@integer/google_play_services_version" />
+121-->[com.google.android.gms:play-services-basement:17.4.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ca63abfd2501c996a41448df36807db6/jetified-play-services-basement-17.4.0/AndroidManifest.xml:25:13-66
+122
+123        <service
+123-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:26:9-30:19
+124            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+124-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:27:13-117
+125            android:exported="false"
+125-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:28:13-37
+126            android:permission="android.permission.BIND_JOB_SERVICE" >
+126-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:29:13-69
+127        </service>
+128
+129        <receiver
+129-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:32:9-34:40
+130            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+130-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:33:13-132
+131            android:exported="false" />
+131-->[com.google.android.datatransport:transport-runtime:3.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/083fd50f42b838c35c7786333c5c3bd3/jetified-transport-runtime-3.0.0/AndroidManifest.xml:34:13-37
+132    </application>
+133
+134</manifest>

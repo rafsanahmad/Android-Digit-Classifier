@@ -21,13 +21,13 @@
     <string msgid="7208076849092622260" name="abc_search_hint">"ಹುಡುಕಿ…"</string>
     <string msgid="3741173234950517107" name="abc_searchview_description_clear">"ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸಿ"</string>
     <string msgid="693312494995508443" name="abc_searchview_description_query">"ಪ್ರಶ್ನೆಯನ್ನು ಹುಡುಕಿ"</string>
-    <string msgid="3417662926640357176" name="abc_searchview_description_search">"ಹುಡುಕಿ"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Search"</string>
     <string msgid="1486535517437947103" name="abc_searchview_description_submit">"ಪ್ರಶ್ನೆಯನ್ನು ಸಲ್ಲಿಸಿ"</string>
     <string msgid="2293578557972875415" name="abc_searchview_description_voice">"ಧ್ವನಿ ಹುಡುಕಾಟ"</string>
     <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"ಇವರೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ"</string>
     <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳಿ"</string>
     <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"ಕುಗ್ಗಿಸಿ"</string>
     <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ಆ್ಯಪ್‍‍ಗೆ Google Play ಸೇವೆಗಳಲ್ಲಿ ಸಮಸ್ಯೆ ಉಂಟಾಗಿದೆ. ದಯವಿಟ್ಟು ಇನ್ನೊಮ್ಮೆ ಪ್ರಯತ್ನಿಸಿ."</string>
-    <string msgid="6264217191555673260" name="search_menu_title">"ಹುಡುಕಿ"</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Search"</string>
     <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
 </resources>

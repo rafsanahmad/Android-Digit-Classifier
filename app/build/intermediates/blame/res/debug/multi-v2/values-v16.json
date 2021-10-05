@@ -4,7 +4,17 @@
             "outputFile": "/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/1d2aad853b23e0825ba878f37fad6aab/appcompat-1.2.0/res/values-v16/values-v16.xml",
+                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ad4c187852062a8343a4dcd3ce2b7c6c/core-1.6.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/1a6558ed24561b760c89afaad63dfbc2/appcompat-1.3.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -20,16 +30,6 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
-                    }
-                },
-                {
-                    "source": "/Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d429cae7b2d96198bacee7b7c875d8c0/core-1.3.0/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
                     }
                 }
             ]
