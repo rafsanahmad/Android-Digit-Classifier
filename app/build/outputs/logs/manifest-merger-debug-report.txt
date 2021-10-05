@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:1-33:12
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:1-33:12
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:1-33:12
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:1-33:12
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/63c2134059c54c2e19b041ca75672a30/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/9690ac65ace3c2aaa567d36173f63259/jetified-core-ktx-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/dfc22ab5b38aa528621fca0bd96fc365/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/88c1d9434066b5f6cd69020fcd0e398e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d8bc2eba2f5265adb9c60b0a0a8c2ff9/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/f9ad9b679492c21745bf488dbc9ccab2/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/b46af372219ea11ae4567e6a15304073/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/2520ea7ba52af64cc6a7ee1529ed87ac/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/956441573a42332b142166ce2938ff8c/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ba3cebd7825c0532f8f570d4700442da/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/5a4e11985f2a485a9e9a3886b457b5a0/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/6eeb580ba0dc9cffa069b88dcd66b92a/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/42af907d25fd2d26846fa518ad7ac83d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/35080e997af56ead831192020bddfb69/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d0129f16a955f82aca8c3305288c793d/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/648a0ec846d8099257771c7f032f6b02/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/7f269c22948a38fc15781925f81e9e8c/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/4a7b73c732fa7d8028b07f5a8ad5609f/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d55ff3373bf3a46aa820f44d4175da5c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/f55c70f2296e03d3b11dd328940c3909/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/71a243d38ef9ad6956f1bf523e71a542/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/17975bdf36531a23f08411c16426dae2/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/f568c8ada71b50b24eac2fb311dca2e9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/83522414fc13a830edcfb06bef671643/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:1-33:12
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:1-33:12
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:1-33:12
+	package
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:11:11-65
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:1-33:12
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:10:11-57
+	android:versionCode
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:1-33:12
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:9:11-69
+uses-sdk
+ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/63c2134059c54c2e19b041ca75672a30/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/63c2134059c54c2e19b041ca75672a30/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/9690ac65ace3c2aaa567d36173f63259/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/9690ac65ace3c2aaa567d36173f63259/jetified-core-ktx-1.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/dfc22ab5b38aa528621fca0bd96fc365/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/dfc22ab5b38aa528621fca0bd96fc365/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/88c1d9434066b5f6cd69020fcd0e398e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/88c1d9434066b5f6cd69020fcd0e398e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d8bc2eba2f5265adb9c60b0a0a8c2ff9/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d8bc2eba2f5265adb9c60b0a0a8c2ff9/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/f9ad9b679492c21745bf488dbc9ccab2/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/f9ad9b679492c21745bf488dbc9ccab2/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/b46af372219ea11ae4567e6a15304073/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/b46af372219ea11ae4567e6a15304073/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/2520ea7ba52af64cc6a7ee1529ed87ac/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/2520ea7ba52af64cc6a7ee1529ed87ac/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/956441573a42332b142166ce2938ff8c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/956441573a42332b142166ce2938ff8c/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ba3cebd7825c0532f8f570d4700442da/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/ba3cebd7825c0532f8f570d4700442da/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/5a4e11985f2a485a9e9a3886b457b5a0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/5a4e11985f2a485a9e9a3886b457b5a0/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/6eeb580ba0dc9cffa069b88dcd66b92a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/6eeb580ba0dc9cffa069b88dcd66b92a/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/42af907d25fd2d26846fa518ad7ac83d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/42af907d25fd2d26846fa518ad7ac83d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/35080e997af56ead831192020bddfb69/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/35080e997af56ead831192020bddfb69/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d0129f16a955f82aca8c3305288c793d/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d0129f16a955f82aca8c3305288c793d/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/648a0ec846d8099257771c7f032f6b02/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/648a0ec846d8099257771c7f032f6b02/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/7f269c22948a38fc15781925f81e9e8c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/7f269c22948a38fc15781925f81e9e8c/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/4a7b73c732fa7d8028b07f5a8ad5609f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/4a7b73c732fa7d8028b07f5a8ad5609f/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d55ff3373bf3a46aa820f44d4175da5c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d55ff3373bf3a46aa820f44d4175da5c/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/f55c70f2296e03d3b11dd328940c3909/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/f55c70f2296e03d3b11dd328940c3909/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/71a243d38ef9ad6956f1bf523e71a542/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/71a243d38ef9ad6956f1bf523e71a542/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/17975bdf36531a23f08411c16426dae2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/17975bdf36531a23f08411c16426dae2/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/f568c8ada71b50b24eac2fb311dca2e9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/f568c8ada71b50b24eac2fb311dca2e9/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/83522414fc13a830edcfb06bef671643/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/83522414fc13a830edcfb06bef671643/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+	android:targetSdkVersion
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+		MERGED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+		INJECTED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml
+application
+ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:15:3-31:17
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/dfc22ab5b38aa528621fca0bd96fc365/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/dfc22ab5b38aa528621fca0bd96fc365/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/88c1d9434066b5f6cd69020fcd0e398e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/88c1d9434066b5f6cd69020fcd0e398e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d8bc2eba2f5265adb9c60b0a0a8c2ff9/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite:0.0.0-nightly] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d8bc2eba2f5265adb9c60b0a0a8c2ff9/jetified-tensorflow-lite-0.0.0-nightly/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d0129f16a955f82aca8c3305288c793d/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d0129f16a955f82aca8c3305288c793d/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/7f269c22948a38fc15781925f81e9e8c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/7f269c22948a38fc15781925f81e9e8c/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d0129f16a955f82aca8c3305288c793d/core-1.1.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:20:11-37
+	android:label
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:18:11-50
+	tools:ignore
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:22:11-50
+	android:roundIcon
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:19:11-56
+	android:icon
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:17:11-45
+	android:allowBackup
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:16:11-37
+	android:theme
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:21:11-58
+activity#org.tensorflow.lite.examples.digitclassifier.MainActivity
+ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:24:5-30:16
+	android:exported
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:25:15-38
+	android:name
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:24:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:26:7-29:23
+action#android.intent.action.MAIN
+ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:27:9-60
+	android:name
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:27:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:28:9-68
+	android:name
+		ADDED from /Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:28:19-66
+activity#com.divyanshu.draw.activity.DrawingActivity
+ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:12:9-14:66
+	android:theme
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from [com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:13:13-71
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

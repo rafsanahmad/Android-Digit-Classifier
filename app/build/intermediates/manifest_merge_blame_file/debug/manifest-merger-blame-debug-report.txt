@@ -1,0 +1,70 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ /**
+4  ~  * Created by Rafsan Ahmad on 10/5/21, 1:08 PM
+5  ~  * Copyright (c) 2021 . All rights reserved.
+6  ~  */
+7-->
+8<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+9    package="org.tensorflow.lite.examples.digitclassifier"
+10    android:versionCode="1"
+11    android:versionName="1.0" >
+12
+13    <uses-sdk
+13-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+14        android:minSdkVersion="21"
+14-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+15        android:targetSdkVersion="28" />
+15-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:13:3-15
+16
+17    <application
+17-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:15:3-31:17
+18        android:allowBackup="true"
+18-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:16:11-37
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.1.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/d0129f16a955f82aca8c3305288c793d/core-1.1.0/AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:icon="@mipmap/ic_launcher"
+21-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:17:11-45
+22        android:label="@string/tfe_dc_app_name"
+22-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:18:11-50
+23        android:roundIcon="@mipmap/ic_launcher_round"
+23-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:19:11-56
+24        android:supportsRtl="true"
+24-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:20:11-37
+25        android:testOnly="true"
+26        android:theme="@style/AppTheme.DigitClassifier" >
+26-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:21:11-58
+27        <activity
+27-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:24:5-30:16
+28            android:name="org.tensorflow.lite.examples.digitclassifier.MainActivity"
+28-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:24:15-43
+29            android:exported="true" >
+29-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:25:15-38
+30            <intent-filter>
+30-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:26:7-29:23
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:27:9-60
+31-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:27:17-58
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:28:9-68
+33-->/Users/rafsanahmad/Desktop/rafsan/Personal projects/Android-Digit-Classifier/app/src/main/AndroidManifest.xml:28:19-66
+34            </intent-filter>
+35        </activity>
+36        <activity
+36-->[com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:12:9-14:66
+37            android:name="com.divyanshu.draw.activity.DrawingActivity"
+37-->[com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:13:13-71
+38            android:theme="@style/Theme.AppCompat.NoActionBar" />
+38-->[com.github.divyanshub024:AndroidDraw:v0.1] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/076263b0708f10913c2228e65604d3fe/jetified-AndroidDraw-v0.1/AndroidManifest.xml:14:13-63
+39
+40        <meta-data
+40-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+41            android:name="com.google.android.gms.version"
+41-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+42            android:value="@integer/google_play_services_version" />
+42-->[com.google.android.gms:play-services-basement:17.0.0] /Users/rafsanahmad/.gradle/caches/transforms-2/files-2.1/56ce061b9b50f58d794946995aeff235/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+43    </application>
+44
+45</manifest>
